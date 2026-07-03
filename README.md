@@ -1,8 +1,8 @@
 A web app for booking tickets of shows for users, and to create venues, shows inside venues for admins.
 
-• Backend: Flask, SQLAlchemy
-• Frontend: VueJS
-• Background Jobs:Celery and Redis
+Backend: Flask, SQLAlchemy
+Frontend: VueJS
+Background Jobs:Celery and Redis
 
 ## Create virtual environment using the below command in terminal
 ```python -m venv virtual_environment_name```
